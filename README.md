@@ -20,6 +20,8 @@ cd team-1-robotics
 
 and run the following commands:
 
+chmod +x src/team1.py (to make the file executable)
+
 catkin build
 
 source ~/catkin_ws/devel/setup.bash 
